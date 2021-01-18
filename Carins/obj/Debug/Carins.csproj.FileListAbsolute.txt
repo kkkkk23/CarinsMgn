@@ -1,0 +1,16 @@
+d:\visual studio 2013\Projects\Carins\Carins\bin\Debug\Carinsdt.mdf
+d:\visual studio 2013\Projects\Carins\Carins\bin\Debug\Carinsdt_log.ldf
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Cusrecordform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Customerfixform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Insuranceservicesform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Loginform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Multselectform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Properties.Resources.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.Staffregform.resources
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.csproj.GenerateResource.Cache
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.exe
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.pdb
+d:\visual studio 2013\Projects\Carins\Carins\bin\Debug\Carins.exe.config
+d:\visual studio 2013\Projects\Carins\Carins\bin\Debug\Carins.exe
+d:\visual studio 2013\Projects\Carins\Carins\bin\Debug\Carins.pdb
+d:\visual studio 2013\Projects\Carins\Carins\obj\Debug\Carins.csprojResolveAssemblyReference.cache
